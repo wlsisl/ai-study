@@ -102,15 +102,39 @@ I/O(input/output)Device:입/출력 장치
 <h4>Software</h4>
 컴퓨터 시스템의 기계장치를 운영하는 프로그램
 
-   System Software: 우리는 cpu, memory, i/o device에 명령을 내릴 수 있어야한다. 즉 H/W를 제어하고 Application Software를 동작할 수 있는 환경을 제공하는 프로그램   
+   * System Software: 우리는 cpu, memory, i/o device에 명령을 내릴 수 있어야한다. 즉 H/W를 제어하고 Application Software를 동작할 수 있는 환경을 제공하는 프로그램   
    O/S(Operation System):Windows/Linux/Mac OS
    
-   Library:Application Software가 사용하는 함수 집합
+   * Library:Application Software가 사용하는 함수 집합
    
-   **Application Software: 일반 사용자를 위한 프로그램, End-user를 위한 프로그램
+   * **Application Software: 일반 사용자를 위한 프로그램, End-user를 위한 프로그램
+
++컴퓨터 네트워크(computer network):컴퓨터간 통신(데이터공유, 프로그램 공유)을 수행할 수 있도록 연결
+
++LAN(local area network):좁은 지역의 컴퓨터를 연결한 network
+
++WAN(wide area network):넓은 지역의 컴퓨터를 연결한 network
+
++internet:전세계 컴퓨터를 연결한 network
+
++프로토콜 (protocol):네트워크에 연결된 컴퓨터간 통신을 하기 위한 규칙
+
++TCP/IP:internet에서 사용하는 protocol
+
++WWW(world wide web): internet에서 제공하는 서비스 형태
+
++HTTP: wep에서 사용하는 protocol
+
++HTML: web에서 제공되는 서비스를 구현할 때 사용하는 프로그램 언어
+
++server computer: 요청에 대한 응답을 수행하는 컴퓨터
+   - server program: Server computer 에서 요청에 대한 응답 처리를 수행하는 프로그램
++client computer: 요청을 하는 컴퓨터
+   - Client program: Server computer 에게 요청하는 처리를 수행하는 프로그램
+   
++cloud service: server computer에 있는 공간(물리적인 공간 또ㅗ는 서비스를 제공하는 프로그램)을 사용자에게 대여해주는 서비스, 반드시 internet에 연결된 상태이어야한다. web browser를 사용하여 cloud service를 이용한다.
 
 <hr></hr>
-
 <H2>Python</H2>
 본 과정은 머신러닝에 필요한 파이썬 프로그래밍 부터 데이터 분석 및 시각화 다양한 알고리즘 등을 학습한다.
 
@@ -119,15 +143,3 @@ I/O(input/output)Device:입/출력 장치
 
 <h4>2.파이썬 개발과정</h4>
 먼저 파이썬 개발과정부터 살펴본다. 
-
-<pre>
-<code>
-public class BootSpringBootApplication {
-  public static void main(String[] args) {
-    System.out.println("Hello, Honeymon");
-  }
-
-}
-</code>
-</pre>
-
