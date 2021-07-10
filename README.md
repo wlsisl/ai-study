@@ -1,5 +1,5 @@
 # ai-study
-github, R언어, 파이썬, 빅데이터 공부
+1주차 github, R언어, 컴퓨터  맛보기
 
 <H2>1.GitHub 알아보기</H2>
 <h4>공부하기에 앞서 GitHub에 대해서 알고가자</h4>
