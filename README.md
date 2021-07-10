@@ -109,30 +109,30 @@ I/O(input/output)Device:입/출력 장치
    
    * **Application Software: 일반 사용자를 위한 프로그램, End-user를 위한 프로그램
 
-+컴퓨터 네트워크(computer network):컴퓨터간 통신(데이터공유, 프로그램 공유)을 수행할 수 있도록 연결
++ 컴퓨터 네트워크(computer network):컴퓨터간 통신(데이터공유, 프로그램 공유)을 수행할 수 있도록 연결
 
-+LAN(local area network):좁은 지역의 컴퓨터를 연결한 network
++ LAN(local area network):좁은 지역의 컴퓨터를 연결한 network
 
-+WAN(wide area network):넓은 지역의 컴퓨터를 연결한 network
++ WAN(wide area network):넓은 지역의 컴퓨터를 연결한 network
 
-+internet:전세계 컴퓨터를 연결한 network
++ internet:전세계 컴퓨터를 연결한 network
 
-+프로토콜 (protocol):네트워크에 연결된 컴퓨터간 통신을 하기 위한 규칙
++ 프로토콜 (protocol):네트워크에 연결된 컴퓨터간 통신을 하기 위한 규칙
 
-+TCP/IP:internet에서 사용하는 protocol
++ TCP/IP:internet에서 사용하는 protocol
 
-+WWW(world wide web): internet에서 제공하는 서비스 형태
++ WWW(world wide web): internet에서 제공하는 서비스 형태
 
-+HTTP: wep에서 사용하는 protocol
++ HTTP: wep에서 사용하는 protocol
 
-+HTML: web에서 제공되는 서비스를 구현할 때 사용하는 프로그램 언어
++ HTML: web에서 제공되는 서비스를 구현할 때 사용하는 프로그램 언어
 
-+server computer: 요청에 대한 응답을 수행하는 컴퓨터
++ server computer: 요청에 대한 응답을 수행하는 컴퓨터
    - server program: Server computer 에서 요청에 대한 응답 처리를 수행하는 프로그램
-+client computer: 요청을 하는 컴퓨터
++ client computer: 요청을 하는 컴퓨터
    - Client program: Server computer 에게 요청하는 처리를 수행하는 프로그램
    
-+cloud service: server computer에 있는 공간(물리적인 공간 또ㅗ는 서비스를 제공하는 프로그램)을 사용자에게 대여해주는 서비스, 반드시 internet에 연결된 상태이어야한다. web browser를 사용하여 cloud service를 이용한다.
++ cloud service: server computer에 있는 공간(물리적인 공간 또ㅗ는 서비스를 제공하는 프로그램)을 사용자에게 대여해주는 서비스, 반드시 internet에 연결된 상태이어야한다. web browser를 사용하여 cloud service를 이용한다.
 
 <hr></hr>
 <H2>Python</H2>
@@ -143,3 +143,4 @@ I/O(input/output)Device:입/출력 장치
 
 <h4>2.파이썬 개발과정</h4>
 먼저 파이썬 개발과정부터 살펴본다. 
+
