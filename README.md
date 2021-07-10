@@ -11,19 +11,19 @@ github, R언어, 파이썬, 빅데이터 공부
 팀원들이 함께 수정할 수 있고 변경이력을 보고 수정했던 때로 돌아가서 확인할 수 있다.
 기본적으로 repository, branch, commit, push 등을 익힐 필요가 있다.
 
-*repository
+* repository
 <br>project를 저장하는 저장소를 말한다. 이때 readme를 설정하면 마크다운 문법을 활용할 수 있다.</br>
 
-*branch
+* branch
 <br>메인을 복사해서 새로운 프로젝트를 만들어 테스트해보는 곳이다.</br>
 
-*commit
+* commit
 <br>깃허브에 저장된 변경사항이다. commit을 할 때마다 gutbub에 변경시점이 기록되고 다른 사람들이 확인 가능하다.</br>
 
-*push
+* push
 <br>저장된 commit을 원격저장소에 업로드 하는 것이다.</br>
 
-*pull request
+* pull request
 <br>다른 사람들의 수정사항을 보고 적용 유무를 판단하는 단계이다. 최근 작업 내역을 볼 수 있다.</br>
 commit 확인->create pull request클릭->open a pull request->어떤 변화 있었는지 입력하기
 
